@@ -59,3 +59,26 @@ h5 {
     font-family: Abril Fatface;
     color: #dd3232;
 }
+
+/* Centers the articles div */
+.more-articles {
+    border-top: 2px solid #eee;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* Centers the sections */
+section {
+    display: inline-block;
+    width: 20em;
+    padding: 10px;
+    text-align: left;
+}
+
+/* Centers the banner image and increases the size */
+.bannerImg {
+    display: block;
+    margin: 0 auto;
+    width: 700px;
+    height: auto;
+}
